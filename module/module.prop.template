@@ -1,0 +1,6 @@
+id=newapi
+name=New-API Gateway
+version=@VERSION@
+versionCode=@VERSION_CODE@
+author=lingxi
+description=New API (arm64) autostart gateway. Listens 0.0.0.0:3000, data in /data/adb/newapi.
